@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LinearLayoutChall</string>
+    
+    <string name="Red">#f00</string>
+    <string name="Orange">#ffa500</string>
+    <string name="Yellow">#ffff00</string>
+    <string name="Green">#0f0</string>
+    <string name="Blue">##00f</string>
+    <string name="Indigo">#4b0082</string>
+    <string name="Violet">#ee82ee</string>
+    <string name="Black">#000</string>
+    <string name="White">#fff</string>
+</resources>
